@@ -30,3 +30,7 @@ Things to note:
   2) this will be hard to understand if you have never attempted parsing before.
   3) the only thing you need to change is the variable "name".
   4) dominoes lava cakes are great
+
+Sources:
+[stackoverflow](https://stackoverflow.com/questions/5674374/remove-double-quotes-from-a-string-in-c)
+[techiedelight](https://www.techiedelight.com/remove-whitespaces-string-cpp/)
