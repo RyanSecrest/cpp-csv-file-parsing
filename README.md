@@ -7,6 +7,12 @@ You only need to focus on main.cpp (look at the given csv file to better underst
 line 20, change "biostats.csv" to either the file location of your csv file or just the name if its in the correct resource folder.
 on the same line in the read function mark true or false for if there is a header in your csv file. 
 
+Necessary Libaries:
+```
+#include <algorithm>
+#include <cctype>
+```
+
 To remove whitespace: 
 ```
 string name = line.getString(0);
