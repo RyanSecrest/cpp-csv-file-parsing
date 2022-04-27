@@ -1,5 +1,5 @@
 ## The purpose of this project is to teach people how to parse csv files in c++.
-### A common issue when importing data from csv files into your projects is that the csv file itself can be badly formatted. You will learn how to combat these issues.
+### A common issue when importing data from csv files into your projects is that the csv file itself can be poorly formatted. You will learn how to combat these issues.
 Used Visual Studio 2019
 
 You only need to focus on main.cpp (look at the given csv file to better understand what is happening)
