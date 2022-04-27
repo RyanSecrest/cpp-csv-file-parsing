@@ -27,6 +27,6 @@ name.erase(remove(name.begin(), name.end(), '\"'), name.end());
 
 Things to note:
   1) the number within the "getStrings" paranthesis is the column number. 0 corresponds to the first column, 1 is the second column etc.
-  
-
-
+  2) this will be hard to understand if you have never attempted parsing before.
+  3) the only thing you need to change is the variable "name".
+  4) dominoes lava cakes are great
